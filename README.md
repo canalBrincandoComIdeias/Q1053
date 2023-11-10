@@ -1,5 +1,5 @@
 # Q1053
-**Como Programar os Sensores com o Arduino Uno? ** 
+**Como Programar os Sensores com o Arduino Uno?** 
 
 Projeto do Vídeo Q1053 Série **_Trilha Do Inventor_** powered by **_Petrobras_**
 
